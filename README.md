@@ -14,4 +14,4 @@ A simple web application to manage your books collection. This app allows users 
 ## Technologies Used
 **HTML**, **CSS**, **JavaScript**, **Local Storage**
 
-link Demo : https://fmn-codes.github.io/bookshelf-apps/
+link Demo : https://codehanz.github.io/bookshelf-apps/
